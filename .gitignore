@@ -1,0 +1,5 @@
+.eide/*
+.vscode/*
+build/*
+src/*
+stc51vsc.code-workspace
